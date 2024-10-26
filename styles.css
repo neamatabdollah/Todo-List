@@ -57,4 +57,7 @@ input, .nameElement , .dueDateElement {
   button {
     width: 100%;
   }
+  .dueDateInput {
+    width: 95%;
+  }
 } 
