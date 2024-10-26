@@ -51,7 +51,7 @@ input, .nameElement , .dueDateElement {
 /* for screen smaller than 420px  */
 @media only screen and (max-width: 420px) {
   .container, .inputContainer {
-    grid-template-columns: 40% 35% 20%;
+    grid-template-columns: 40% 30% 20%;
     gap: 1%;
     justify-content: space-evenly;
     
